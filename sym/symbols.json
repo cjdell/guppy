@@ -47,6 +47,17 @@
 	 {"mode":"symbol","is_bracket":"yes"}]
     },
 
+    "pl":
+    {"output":{
+        "latex":"?",
+        "asciimath":"?"},
+     "attrs":{
+	 "type":"pl",
+	 "group":"editor"},
+     "args":[
+	 {"delete":"1"}]
+    },
+
     "abs":
     {"output":{
         "latex":"\\left|{$1}\\right|",
